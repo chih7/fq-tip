@@ -34,6 +34,7 @@ Goagent是一种非常成熟的翻墙方案，除非中国政府像近期一样�
 #### shadowsocks
 **Shadowsocks**来源于[V2EX][3]，是一种比较新的翻墙方案，是一个轻量级socks5代理，代码托管在[GitHub][4]。和Goagent一样，也是全平台支持。所有设备适用，台式电脑、笔记本、平板、手机……任何可联网设备均可使用
 **shadowsocks**没有**Google**作后台，所以这是一种基本需要收费的翻墙方案，你可能需要想他人购买**Shadowsocks**帐号来使用他人提供的**Shadowsocks**服务，或者干脆购买一台国外的VPS主机，自己架设Shadowsocks服务。我本人平时是使用vps搭建Shadowsocks的来翻墙的，购买了一台[DigitalOcean][5]的vps，看youtube的1080p视频不再话下。对了，[linode][8]新推出了$10/mo的vps，linode的配置，服务，带宽什么的比DigitalOcean好一些了，土豪可以去看看。`-_-`
+
 | Item      |    Value |
 | :-------- | --------:|
 | CPU       |   1 core |
