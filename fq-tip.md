@@ -62,11 +62,11 @@ Goagent是一种非常成熟的翻墙方案，除非中国政府像近期一样�
 ####polipo
 **polipo**是一个小而快速的缓存 web 代理程序，可以作为socks代理的二级代理，把socks流量转换为HTTP代理。
 
->
-*proxyAddress = "0.0.0.0"#使用本机作为代理服务器
-*proxyPort = 8123#http代理服务端口
-*socksParentProxy = "0.0.0.0:1028"#把后面的1028改成刚刚配置的shadowsocks本地端口
-*socksProxyType = socks5 #shdadowsocks为socks5代理
+> 配置
+* proxyAddress = "0.0.0.0"#使用本机作为代理服务器
+* proxyPort = 8123#http代理服务端口
+* socksParentProxy = "0.0.0.0:1028"#把后面的1028改成刚刚配置的shadowsocks本地端口
+* socksProxyType = socks5 #shdadowsocks为socks5代理
 
 
 
